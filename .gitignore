@@ -173,3 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 week-1/local_dataset
+week-3/data
+week-3/results
+week-3/wandb
