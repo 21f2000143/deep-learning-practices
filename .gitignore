@@ -187,3 +187,7 @@ competition_train.csv
 competition_val.csv
 sample_submission.csv
 DLP NPPE 1 Instructions.md
+logs
+LoRA-Gemma3-model
+nppe_ds
+nppe_tokenizer
