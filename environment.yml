@@ -162,4 +162,3 @@ dependencies:
       - typing-inspection==0.4.1
       - wandb==0.20.1
       - yarl==1.20.1
-prefix: C:\Users\smlab\.conda\envs\dlptest
