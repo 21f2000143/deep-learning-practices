@@ -1,3 +1,6 @@
 [submodule "sub-repo"]
 	path = sub-repo
 	url = https://github.com/swz30/MPRNet
+[submodule "deep-sort"]
+	path = deep-sort
+	url = git@github.com:nwojke/deep_sort.git

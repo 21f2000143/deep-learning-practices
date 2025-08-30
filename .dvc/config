@@ -1,0 +1,5 @@
+[core]
+    remote = dvc-deep-learning-data
+['remote "dvc-deep-learning-data"']
+    url = gdrive://1Dgm5u8yHHIaHRdt0KJ1UWSf3zsDKPIrM
+    gdrive_acknowledge_abuse = true
